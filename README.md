@@ -20,7 +20,7 @@ This project is a script that interacts with PancakeSwap's prediction contract o
 
    ```sh
    git clone https://github.com/KOKOSde/pancakeswap-epoch-results-BNB.git
-   cd pancakeswap-epoch-fetcher
+   cd pancakeswap-epoch-results-BNB
    ```
 
 2. Install the required packages using `requirements.txt`:
